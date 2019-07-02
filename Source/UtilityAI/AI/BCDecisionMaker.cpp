@@ -94,7 +94,6 @@ bool UBCDecisionMaker::CheckTagRequirement(FTagRequirements& RefToTagRequirement
 			auto Target = Cast<ABaseCharacter>(CurrentContext.Target);
 			if (!Target) { return false; }
 			RefTags = Target->TagContainer;
-			RefTags = Target->TagContainer;
 			break;
 		}
 	}

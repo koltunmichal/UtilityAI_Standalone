@@ -4,9 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
+#include "GameplayAbility.h"
 #include "GameplayTagContainer.h"
 #include "ConsiderationTemplate.h"
-#include "GameplayAbility.h"
 #include "AIAction.generated.h"
 
 
